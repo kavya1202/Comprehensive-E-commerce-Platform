@@ -1,0 +1,17 @@
+e-commerce-platform/
+├── app/
+│   ├── __init__.py
+│   ├── models.py
+│   ├── routes.py
+│   ├── forms.py
+│   ├── static/
+│   └── templates/
+│       ├── home.html
+│       ├── product_listing.html
+│       ├── product_details.html
+│       ├── shopping_cart.html
+│       └── checkout.html
+├── migrations/
+├── tests/
+├── requirements.txt
+└── run.py
